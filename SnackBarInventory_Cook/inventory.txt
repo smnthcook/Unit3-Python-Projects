@@ -1,0 +1,3 @@
+coke,2.0,9
+snickers,3.0,8
+snickers,2.0,10
